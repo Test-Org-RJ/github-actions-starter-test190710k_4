@@ -1,3 +1,5 @@
+test rebase merge
+
 test squash
 commit commit commit
 <p align="center">
