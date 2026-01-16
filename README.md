@@ -1,3 +1,5 @@
+test merge commit
+
 test rebase merge
 
 test squash
